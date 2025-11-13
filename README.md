@@ -10,6 +10,7 @@ La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C
 
 ## Instructions
 
+
 Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pouvez utiliser le menu des Branches sur GitHub afin d’accéder aux passages qui vous intéressent. Vous pouvez également rajouter `/tree/BRANCH_NAME` à l’URL afin d’accéder à la branche qui vous intéresse. 
 
 ### Formateur
